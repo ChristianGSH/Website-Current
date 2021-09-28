@@ -1,4 +1,10 @@
 
+  body {
+    background-color: rgb(255, 255, 255);
+  
+  }
+  
+  
   nav{
      position: relative;
      display: -webkit-box;
@@ -20,7 +26,7 @@
     color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 5px;
-    font-size: 25px;
+    font-size: 28px;
 
   }
 
@@ -139,6 +145,7 @@
       bottom: 0;
       left: 0;
       background: #111;
+      
     }
     footer .content{
       max-width: 1350px;
