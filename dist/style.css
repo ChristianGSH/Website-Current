@@ -1,9 +1,5 @@
 
-   body{
-    
-  
-  }
-  
+
   
   nav{
      position: relative;
@@ -18,9 +14,11 @@
       background-color: #000000;
       font-family: 'Gemunu Libre', sans-serif;
       
+      
     }
 
-
+  
+  
 
   .logo{
     color: #2ba0ff;
